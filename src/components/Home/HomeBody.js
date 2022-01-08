@@ -46,7 +46,7 @@ function HomeBody() {
         <span role="img" aria-label="hello">
           💻
         </span>{" "}
-        A Frontend Developer with a DevOps side.
+        A Full Stack Developer with a passion for DevOps and IoT.
       </Topic>
       <Topic>
         <span role="img" aria-label="hello">

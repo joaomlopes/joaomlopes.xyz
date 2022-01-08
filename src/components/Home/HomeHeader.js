@@ -66,7 +66,7 @@ function HomeHeader() {
         <Name>João Lopes</Name>
       </Grid>
       <Grid item>
-        <Job>Senior Frontend Developer</Job>
+        <Job>Senior Full Stack Developer</Job>
       </Grid>
     </HeaderContainer>
   );
