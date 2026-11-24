@@ -39,7 +39,7 @@ function HomeBody() {
     <BodyContainer
       container
       direction="column"
-      justify="flex-end"
+      justifyContent="flex-end"
       alignItems="center"
     >
       <Topic>
@@ -64,7 +64,7 @@ function HomeBody() {
       <SocialContainer
         container
         direction="row"
-        justify="center"
+        justifyContent="center"
         alignItems="center"
       >
         <a
