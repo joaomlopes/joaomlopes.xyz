@@ -49,7 +49,7 @@ function HomeHeader() {
     <HeaderContainer
       container
       direction="column"
-      justify="center"
+      justifyContent="center"
       alignItems="center"
     >
       <SvgIcon
